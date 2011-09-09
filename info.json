@@ -1,0 +1,9 @@
+{
+	"name" : "cipr.class",
+	"author" : "Mike Thornton",
+	"email" : "six8@devdetails.com",
+	"install_requires" : [
+		"git://github.com/kikito/middleclass.git",
+		"git://github.com/kikito/middleclass-extras.git"
+	]
+}
