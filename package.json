@@ -1,9 +1,8 @@
 {
 	"name" : "cipr.class",
-	"version" : "0.7",
+	"version" : "0.8",
 	"author" : "Mike Thornton <six8@devdetails.com>",
 	"dependencies" : {
-		"middleclass" : "git://github.com/kikito/middleclass.git@1.4",
-		"middleclass-extras" : "git://github.com/kikito/middleclass-extras.git@0.8"
+		"middleclass" : "git://github.com/kikito/middleclass.git@2.0"
 	}
 }
