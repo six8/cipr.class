@@ -3,6 +3,6 @@
 	"version" : "0.8",
 	"author" : "Mike Thornton <six8@devdetails.com>",
 	"dependencies" : {
-		"middleclass" : "git://github.com/kikito/middleclass.git@2.0"
+		"middleclass" : "git://github.com/kikito/middleclass.git@3.0"
 	}
 }
